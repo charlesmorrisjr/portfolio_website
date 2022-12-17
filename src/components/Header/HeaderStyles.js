@@ -53,7 +53,7 @@ export const NavLink = styled.a`
   font-family: 'Arial';
   font-size: 1.8rem;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   line-height: 32px;
   color: rgba(255, 255, 255, 0.95);
   transition: 0.4s ease;
